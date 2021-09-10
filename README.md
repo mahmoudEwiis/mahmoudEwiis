@@ -1,3 +1,20 @@
+            <style>
+            h2 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+
+
 ### Hi there 👋
 
 
