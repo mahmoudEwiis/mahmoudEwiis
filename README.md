@@ -17,9 +17,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px"></span>
 
 <h3>things i am learning </h3>
-
 <br>
-
 <span><img src="https://image.flaticon.com/icons/png/512/2083/2083213.png" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 
