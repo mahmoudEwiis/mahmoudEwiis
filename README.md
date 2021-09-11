@@ -1,6 +1,10 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/mahmoudEwiis/mahmoudEwiis/master/wave.gif" width="30px">
 
-I am Mahmoud Ewiis 😃. I am from Egypt and currently doing my B.Tech beni suef university 🏫. I love to explore and learn about new things.
+I am Mahmoud Ewiis 😃. I am currently pursuing a Bachelor’s degree in Computer Science from [ Beni Suef University](https://www.bsu.edu.eg/).I am a technology enthusiast and open source advocate. I am always open to collaborating on innovative/disruptive projects and ideas. Find out more about me and feel free to contact me here:
+![Linkedin Badge](<a href="https://www.linkedin.com/in/mahmoudewiis/">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+</a>)
+
 
  - 🔭 I'm currently working on a lot of side projects
  - 🌱 I'm currently learning React and machine learning.
