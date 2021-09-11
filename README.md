@@ -2,7 +2,7 @@
 
 I am Mahmoud Ewiis 😃. I am currently pursuing a Bachelor’s degree in Computer Science from [ Beni Suef University](https://www.bsu.edu.eg/).I am a technology enthusiast and open source advocate. I am always open to collaborating on innovative/disruptive projects and ideas. Find out more about me and feel free to contact me here:
 ![Linkedin Badge](<a href="https://www.linkedin.com/in/mahmoudewiis/">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  width="30px"/>
 </a>)
 
 
