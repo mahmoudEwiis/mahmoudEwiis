@@ -6,6 +6,7 @@ I am Mahmoud Ewiis 😃. I am from Egypt and currently doing my B.Tech beni suef
  - 🌱 I'm currently learning React and machine learning.
  - 👯 I'm looking to collaborate on full stack web apps!
  - 💬 Ask me about Angular and robots.
+ - 😄 Pronouns: he/him.
 
 <h3>things i code with</h3>
 
