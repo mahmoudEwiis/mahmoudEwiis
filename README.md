@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/mahmoudEwiis/mahmoudEwiis/master/wave.gif" width="30px">
 
 I am Mahmoud Ewiis 😃. I am from Egypt and currently doing my B.Tech beni suef university 🏫. I love to explore and learn about new things.
 
