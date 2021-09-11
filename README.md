@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+I am Mahmoud Ewiis 😃. I am from Egypt and currently doing my B.Tech beni suef university 🏫. I love to explore and learn about new things.
 
  - 🔭 I'm currently working on a lot of side projects
  - 🌱 I'm currently learning React and machine learning.
