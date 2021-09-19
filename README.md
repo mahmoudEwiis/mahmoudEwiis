@@ -6,7 +6,7 @@ I am Mahmoud Ewiis 😃. I am currently pursuing a Bachelor’s degree in Comput
 
  - 🔭 I'm currently working on a lot of side projects
  - 🌱 I'm currently learning React and machine learning.
- - 👯 I'm looking to collaborate on full stack web apps!
+ - 👯 I'm looking to collaborate on full stack web apps!.
  - 💬 Ask me about Angular and robots.
  - 😄 Pronouns: he/him.
 
