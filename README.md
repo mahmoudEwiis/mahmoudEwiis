@@ -21,11 +21,11 @@ I am Mahmoud Ewiis 😃. I am currently pursuing a Bachelor’s degree in Comput
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="30px"></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30px"></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 
 <h3>things i am learning </h3>
 
 <span><img src="https://image.flaticon.com/icons/png/512/2083/2083213.png" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mahmoudEwiis/mahmoudEwiis">
